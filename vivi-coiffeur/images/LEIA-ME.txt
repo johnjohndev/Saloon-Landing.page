@@ -1,0 +1,19 @@
+PASTA DE IMAGENS — Vivi Coiffeur
+
+Coloque aqui as fotos com exatamente estes nomes.
+Enquanto um arquivo não existir, o site mostra um bloco
+colorido com o nome da foto no lugar.
+
+  salao-capa.jpg     Topo do site        horizontal 4:3 (no computador é cortada
+                                         para vertical; deixe o assunto no centro)
+  vivi-retrato.jpg   Quem é Vivi?        retrato vertical 4:5
+  equipe.jpg         O salão / Equipe    horizontal 16:10
+  salao-1.jpg        Galeria             horizontal (larga)
+  salao-2.jpg        Galeria             quadrada
+  salao-3.jpg        Galeria             quadrada
+  salao-4.jpg        Galeria             quadrada
+  salao-5.jpg        Galeria             quadrada
+  salao-6.jpg        Galeria             horizontal (larga)
+  vivi-premio.jpg    Conquistas          horizontal 16:10 (Star L'Oréal Pro 2026)
+
+Dica: largura de 1200px e menos de 300 KB por foto.
